@@ -26,7 +26,7 @@ Mobile:-
 
 ### Links
 
-- Solution URL: [Result summary](https://your-solution-url.com)
+- Solution URL: [Result summary](https://theplator.github.io/Frontend_mentor_Result_summary_challenge/)
 
 ## My process
 
